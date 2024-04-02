@@ -1,6 +1,6 @@
 [submodule "call-graph/java-callgraph"]
 	path = call-graph/java-callgraph
 	url = https://github.com/gousiosg/java-callgraph.git
-	branch = main
+	branch = master
 [submodule "call-graph/"]
-	branch = main
+	branch = master
